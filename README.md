@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897884-0e5f4d8e-9e0a-4d3b-8b28-4c24f5b2e4d6.gif" width="100%" alt="pixel coding banner"/>
+  <img src="banner.png" width="100%" alt="Developer Banner"/>
 </div>
 
 <div align="center">
@@ -154,11 +154,11 @@ Deepgram Speech API • Google Gemini AI
 
 ---
 
-# 🌆 3D Contribution Skyline
+## 🌆 3D Contribution Skyline
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=sricharan-ss&theme=tokyonight"/>
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=sricharan-ss&theme=github_dark" width="800"/>
 
 </div>
 
