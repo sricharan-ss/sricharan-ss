@@ -1,11 +1,14 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sricharan%20S%20S&fontAlign=50&fontAlignY=40&color=0:00C6FF,100:0072FF&desc=IoT%20Developer%20%7C%20AI%20Builder%20%7C%20MERN%20Stack&descAlign=50&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=600&height=45">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-3f9d9c1f-4b78-4c83-9c54-47e3a8c3d1c7.gif" width="100%" alt="coding banner"/>
 </div>
 
+
+<div align="center">
+# 👋 Hey there, I'm Sricharan S S
+### ⚡ IoT Developer | AI Builder | MERN Stack Developer
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=600&height=45"> 
+  </div>
 ---
 
 <div align="center">
