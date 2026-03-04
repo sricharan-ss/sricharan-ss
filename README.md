@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-3f9d9c1f-4b78-4c83-9c54-47e3a8c3d1c7.gif" width="100%" alt="coding banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897884-0e5f4d8e-9e0a-4d3b-8b28-4c24f5b2e4d6.gif" width="100%" alt="pixel coding banner"/>
 </div>
 
-
 <div align="center">
-# 👋 Hey there, I'm Sricharan S S
-### ⚡ IoT Developer | AI Builder | MERN Stack Developer
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=600&height=45"> 
-  </div>
+<h1>👋 Hey there, I'm Sricharan S S</h1>
+
+<h3>⚡ IoT Developer | AI Builder | MERN Stack Developer</h3>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=600&height=45">
+
+</div>
 ---
 
 <div align="center">
@@ -26,9 +28,13 @@
 <div align="center">
 
 🎓 Building real-world technology
+
 🔌 Interested in **IoT, AI systems, and Full Stack development**
+
 ⚡ Building impactful platforms like **FeedForward & Aurevia Health**
+
 🛠 Working with **Arduino, ESP32, MERN Stack and AI APIs**
+
 🚀 Always exploring how technology can solve real-world problems
 
 </div>
