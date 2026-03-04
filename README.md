@@ -8,10 +8,10 @@
 
 <h3>⚡ IoT Developer | AI Builder | MERN Stack Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=600&height=55">
+<img src="https://readme-typing-svg.demolab.com/?lines=IoT+Developer;AI+Builder;MERN+Stack+Developer;ESP32+%7C+Arduino+Engineer;Building+Impactful+Tech&center=true&width=800&height=55">
 
 </div>
----
+
 
 <div align="center">
 
