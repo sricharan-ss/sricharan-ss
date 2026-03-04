@@ -116,18 +116,6 @@ Deepgram Speech API • Google Gemini AI
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sricharan-ss&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan-ss&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -152,15 +140,7 @@ Deepgram Speech API • Google Gemini AI
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan-ss&theme=tokyo-night"/>
 
----
 
-## 🌆 3D Contribution Skyline
-
-<div align="center">
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=sricharan-ss&theme=github_dark" width="800"/>
-
-</div>
 
 ---
 
